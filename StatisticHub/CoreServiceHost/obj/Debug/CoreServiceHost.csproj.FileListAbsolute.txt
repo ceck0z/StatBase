@@ -1,0 +1,11 @@
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreServiceHost.exe.config
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreServiceHost.exe
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreServiceHost.pdb
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreService.dll
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreService.pdb
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\bin\Debug\CoreService.dll.config
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\obj\Debug\CoreServiceHost.csprojAssemblyReference.cache
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\obj\Debug\CoreServiceHost.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\obj\Debug\CoreServiceHost.csproj.CopyComplete
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\obj\Debug\CoreServiceHost.exe
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreServiceHost\obj\Debug\CoreServiceHost.pdb

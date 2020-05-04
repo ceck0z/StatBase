@@ -1,0 +1,6 @@
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.dll.config
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.dll
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.pdb
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.dll
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.pdb
