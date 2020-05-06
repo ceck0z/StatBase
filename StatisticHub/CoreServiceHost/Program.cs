@@ -7,9 +7,9 @@ using System.Threading;
 
 namespace CoreServiceHost
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<Type> services = new List<Type>()
             { 
