@@ -1,6 +1,8 @@
 ﻿using CoreService;
+using CoreServiceHost.HeroStatisticService;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.ServiceModel;
 using System.ServiceModel.Description;
 using System.Threading;
@@ -11,9 +13,15 @@ namespace CoreServiceHost
     {
         public static void Main(string[] args)
         {
+            HeroStatisticServiceClient heroStatistic = new HeroStatisticServiceClient("BasicHttpBinding_IHeroStatisticService");
+
+            if (heroStatistic.State.Equals(ConnectionState.Open))
+            Console.WriteLine(heroStatistic.DbProjectServiceCall());
+
             List<Type> services = new List<Type>()
             { 
                 typeof(HeroStatistic)
+                
             };
 
             ServiceHost host = null;
@@ -30,11 +38,17 @@ namespace CoreServiceHost
                 hostedServices.Add(host);
             }
 
+            HeroDbService.IHeroDbService dbService = new HeroDbService.HeroDbServiceClient();
+
+            var result = dbService.DbProjectServiceCall();
+
+            Console.WriteLine(result);
+
             Console.WriteLine("All services were started!");
             Console.WriteLine(Environment.NewLine + "Press any key to close services");
             Console.ReadKey();
 
-            ShutdownServices(hostedServices);           
+            ShutdownServices(hostedServices);            
         }
 
         private static void PrintServiceInfo(ServiceHost host)

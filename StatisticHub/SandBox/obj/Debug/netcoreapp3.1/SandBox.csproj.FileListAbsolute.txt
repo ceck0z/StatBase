@@ -1,0 +1,13 @@
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.exe
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.deps.json
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.json
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.dev.json
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.dll
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\bin\Debug\netcoreapp3.1\SandBox.pdb
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.csprojAssemblyReference.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfoInputs.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfo.cs
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.dll
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.pdb
+D:\Programming\CSharpProjects\StatBase\StatisticHub\SandBox\obj\Debug\netcoreapp3.1\SandBox.genruntimeconfig.cache

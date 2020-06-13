@@ -4,3 +4,11 @@ D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreServi
 D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.csproj.CoreCompileInputs.cache
 D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.dll
 D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.pdb
+D:\Projects\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.csprojAssemblyReference.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.dll.config
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.dll
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\bin\Debug\CoreService.pdb
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.csprojAssemblyReference.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.dll
+D:\Programming\CSharpProjects\StatBase\StatisticHub\CoreService\obj\Debug\CoreService.pdb

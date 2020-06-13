@@ -10,6 +10,11 @@ namespace CoreService
             return string.Format("You entered: {0}", value);
         }
 
+        public void SelectHero(string heroName)
+        {
+            Console.WriteLine($"Your hero is {heroName}");
+        }
+
         public CompositeType GetDataUsingDataContract(CompositeType composite)
         {
             if (composite == null)

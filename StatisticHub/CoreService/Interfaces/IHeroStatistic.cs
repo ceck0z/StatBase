@@ -11,6 +11,9 @@ namespace CoreService
         string GetData(int value);
 
         [OperationContract]
+        void SelectHero(string heroName);
+
+        [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: Add your service operations here

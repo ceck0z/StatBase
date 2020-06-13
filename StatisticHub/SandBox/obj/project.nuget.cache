@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9sdEKZpt1wFAtC+treOlEh0uOy1/pi2be138TV1fA3x2pzTumYc1Sj4Q3XmMJ97xycYR7qWM2ELEODPFrgGuAA==",
+  "dgSpecHash": "sDCC1DNgJBZuQ2tLKZcKZCBn9B7QspijuL+LNkoz/rOwDSU5zBanzjkORA9FN2MJxvkGVJbYDku7FX6ISOigLg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CSharpProjects\\StatBase\\StatisticHub\\SandBox\\SandBox.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programming\\CSharpProjects\\StatBase\\StatisticHub\\SandBox\\SandBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ceck0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

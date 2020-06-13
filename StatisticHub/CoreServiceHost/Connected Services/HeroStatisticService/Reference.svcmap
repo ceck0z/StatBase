@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="60627ade-7ae1-4495-bb3e-d6602a8ab905" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8734/HeroStatisticService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HeroStatisticService.wsdl" MetadataType="Wsdl" ID="adfe1ec8-df1a-46b9-8e88-64dc86ed09ab" SourceId="1" SourceUrl="http://localhost:8734/HeroStatisticService/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="390d7857-d298-41c5-afe1-26d7d2631943" SourceId="1" SourceUrl="http://localhost:8734/HeroStatisticService/?disco" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="c08e4eb5-0cb8-4638-a0bf-05de7752e6ba" SourceId="1" SourceUrl="http://localhost:8734/HeroStatisticService/?xsd=xsd2" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="18ac8d42-ca6f-45bb-a0fb-1de3491b5935" SourceId="1" SourceUrl="http://localhost:8734/HeroStatisticService/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="840b49bb-fd71-4b15-a10a-ce5d0c9578cc" SourceId="1" SourceUrl="http://localhost:8734/HeroStatisticService/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
